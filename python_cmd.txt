@@ -5,3 +5,5 @@ python -m pip install SomePackage
 2、在notepad++中运行python
 cmd /k C:\Users\liuchao\AppData\Local\Programs\Python\Python38\python.exe "$(FULL_CURRENT_PATH)" & PAUSE & EXIT
 alt + shift + A
+3、python图表结合方式
+https://github.com/ricklamers/gridstudio.git
