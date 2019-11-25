@@ -15,3 +15,9 @@ df1= pd.DataFrame({'A':1,
                    'F':'foo',
                    'G':pd.Series([1,2,3,4])})
 print(df1)
+
+print(df1.dtypes)#查看每列的类型
+print(df1.index)#查看行下标
+print(df1.columns)#查看列下标
+print(df1.values)#查看所有
+print(df1.describe())#查看平均数，方差
