@@ -5,7 +5,26 @@
 ##################################################################
 [project attributes]
 proj.file-type = 'shared'
-proj.launch-config = {loc('pythonBasic/importFromStudy/untitled-1.py'): ('pr'\
+proj.launch-config = {loc('numpyStudy/basic.py'): ('project',
+        (u'c:\\Users\\liuchao\\AppData\\Local\\Programs\\Python\\Python38\\',
+         '')),
+                      loc('pythonBasic/importFromStudy/listAndDic.py'): ('pr'\
         'oject',
+        (u'c:\\Users\\liuchao\\AppData\\Local\\Programs\\Python\\Python38\\python.exe',
+         '')),
+                      loc('pythonBasic/importFromStudy/untitled-1.py'): ('pr'\
+        'oject',
+        (u'c:\\Users\\liuchao\\AppData\\Local\\Programs\\Python\\Python38\\',
+         '')),
+                      loc('pythonBasic/list/listToSlice.py'): ('project',
+        (u'c:\\Users\\liuchao\\AppData\\Local\\Programs\\Python\\Python38\\',
+         '')),
+                      loc('pythonBasic/list/methedInList.py'): ('project',
+        (u'c:\\Users\\liuchao\\AppData\\Local\\Programs\\Python\\Python38\\',
+         '')),
+                      loc('pythonBasic/list/mylist.py'): ('project',
+        (u'c:\\Users\\liuchao\\AppData\\Local\\Programs\\Python\\Python38\\',
+         '')),
+                      loc('pythonBasic/tuple/mytuple.py'): ('project',
         (u'c:\\Users\\liuchao\\AppData\\Local\\Programs\\Python\\Python38\\',
          ''))}
